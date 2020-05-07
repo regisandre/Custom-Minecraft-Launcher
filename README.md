@@ -1,3 +1,3 @@
-# Project name
+# Custom Minecraft launcher
 
-Description
+Custom Minecraft launcher for modded servers
